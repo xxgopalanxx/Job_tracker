@@ -3,6 +3,7 @@
 A production-grade full stack web application to track job applications through the entire hiring pipeline. Built with **React**, **Django REST Framework**, **PostgreSQL**, and **Docker**.
 
 ![Tech Stack](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![Django](https://img.shields.io/badge/Django-5.0-092E20?logo=django) ![DRF](https://img.shields.io/badge/DRF-3.15-red) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql) ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
