@@ -86,7 +86,7 @@ jobtracker/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/jobtracker.git
+git clone https://github.com/xxgopalanxx/Job_tracker.git
 cd jobtracker
 
 # 2. Create backend .env
